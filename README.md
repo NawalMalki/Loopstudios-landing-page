@@ -26,11 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/NawalMalki/Challenge11-FrontEndMentor/assets/114352448/87316f55-73a9-4793-911d-5284543335f7)
+
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [click here to check it out](https://challenge11-front-end-mentor.vercel.app/)
 
 ## My process
 
