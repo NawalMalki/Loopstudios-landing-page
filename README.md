@@ -26,9 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/NawalMalki/Challenge11-FrontEndMentor/assets/114352448/87316f55-73a9-4793-911d-5284543335f7)
-
-
+![image](https://github.com/NawalMalki/Challenge11-FrontEndMentor/assets/114352448/4996026e-a541-411f-91ec-46ac82921483)
 
 ### Links
 
