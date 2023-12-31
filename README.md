@@ -1,23 +1,4 @@
-# Frontend Mentor - Loopstudios landing page solution
-
-This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-
-## Overview
-
-### The challenge
+# Loopstudios landing page 
 
 Users should be able to:
 
@@ -32,7 +13,6 @@ Users should be able to:
 
 - Live Site URL: [click here to check it out](https://challenge11-front-end-mentor.vercel.app/)
 
-## My process
 
 ### Built with
 
@@ -41,9 +21,6 @@ Users should be able to:
 - JavaScript
 
 
-### What I learned
-
-I deepened my understanding of tailwindcss and its extensive range of classes. This marks my second project developed exclusively using tailwindcss, and the experience was notably smoother compared to my initial attempt.
 
 ### Useful resources
 
